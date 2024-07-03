@@ -1,6 +1,6 @@
 # Linear regression exercise
 
-1. To create a new Project by cloning this repository from Github. 
+1. To create a new Project by cloning this repository from Github: 
 
       - Open RStudio and go to File > New Project... > Version Control > Git.  
       - Enter the repository URL.  
@@ -10,7 +10,7 @@
       - Once project opens in RStudio, in R console run `renv::init()` to initialize project and install required packages  
       (renv should already be installed: `install.packages("renv")`).  
 
-2. To open an existing Project.  
+2. To open an existing Project:  
 
       a. Navigate to and double-click .Rproj file.
       or     
