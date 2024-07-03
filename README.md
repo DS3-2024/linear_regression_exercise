@@ -12,7 +12,7 @@
 
 2. To open an existing Project:  
 
-      a. Navigate to and double-click .Rproj file.
+      a. Navigate to and double-click .Rproj file.  
       or     
       b. Open RStudio and go to File > Open Project... > Select .Rproj file.  
 
