@@ -13,7 +13,7 @@
 2. To open an existing Project:  
 
       a. Navigate to and double-click .Rproj file.  
-      or     
+         or     
       b. Open RStudio and go to File > Open Project... > Select .Rproj file.  
 
 3. Once Project is open in RStudio, open R script(s) and work through analysis steps in script. 
